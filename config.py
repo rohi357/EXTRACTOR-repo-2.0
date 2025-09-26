@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "21567814"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","cd7dc5431d449fd795683c550d7bfb7e")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7333052013:AAERYRmICxwG8ZK8SDn4fEpgxTYyiUgAxTc")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Stranger_txt_extractor_bot")
 BOT_TEXT = "『 THE BOYS / STRANGER BOYS 』"
@@ -21,7 +21,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002583554860"))
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002583554860")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://chiruedizz:WmzSiQlS35fLDImn@cluster0.4o4zl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://herukobanna:ankit999@cluster0.xs772me.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002583554860"))
 # -----------------------------------------------
